@@ -1,0 +1,14 @@
+name: anime_studio
+description: Anime Studio App
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^2.7.0
+
+flutter:
+  uses-material-design: true
